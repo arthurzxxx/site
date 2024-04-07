@@ -10,4 +10,25 @@
     justify-content: space-around;
     padding: 24px 0;
 }
- 
+
+ .site-imagem{
+    width: 15%;
+ }
+
+
+
+ .site{
+    background-image: linear-gradient(#900505,#060538);
+    color: white;
+    display: flex;
+ }
+
+
+ .site-div-conteudo{
+    width: 35%;
+ }
+
+
+.site-imagem-2{
+    width: 15%;
+}
