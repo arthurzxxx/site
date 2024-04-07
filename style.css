@@ -1,3 +1,13 @@
-header {
-    background-color: #900505
+*{
+    margin: 0;
+    padding: 0;
 }
+
+.cabeçalho {
+    background-color: #060202;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+ 
